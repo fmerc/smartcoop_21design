@@ -1,6 +1,7 @@
 # Video  streaming with RPi camera
+# Based off RaspberryPi sample code
 # Documentation: https://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming
-# Modified by: Tai Kjendal 2021-05
+# Modified by: Tai Kjendal May 2021
 
 import io
 import picamera

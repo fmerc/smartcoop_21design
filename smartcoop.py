@@ -1,5 +1,6 @@
 # Smartcoop system
-# Tai Kjendal 2021-05
+# Combines GPIO read/write with Blynk app
+# Tai Kjendal May 2021
 
 import board
 import RPi.GPIO as GPIO

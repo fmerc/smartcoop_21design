@@ -1,3 +1,7 @@
+# Blink 2 LEDs on GPIO 9, 11
+# Used for measuring electrical chars of LEDs
+# Tai Kjendal May 2021
+
 import RPi.GPIO as GPIO
 import time
 
