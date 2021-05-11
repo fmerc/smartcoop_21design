@@ -1,0 +1,6 @@
+#Exclude all
+*
+
+!.gitignore
+!*.py
+!README.md
